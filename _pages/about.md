@@ -41,9 +41,9 @@ Xiaohui Wan is currently pursuing a PhD at the School of Automation Science and 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.09 - now*, Pursuing a PhD at the school of automation science and electrical engineering, Beihang University, Beijing, China. 
-- *2017.09 - 2019.06*, Studied for Master's degree at the school of automation science and electrical engineering, Beihang University, Beijing, China.
-- *2012.09 - 2016.06*, Graduated with Bachelor's degree from from the school of electrical and information engineering, Jiangsu University, Zhenjiang, China. 
+- *2019.09 - now*, Pursuing a PhD at Beihang University, Beijing, China. 
+- *2017.09 - 2019.06*, Studied for Master's degree at Beihang University, Beijing, China.
+- *2012.09 - 2016.06*, Graduated with Bachelor's degree from Jiangsu University, Zhenjiang, China. 
 
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
