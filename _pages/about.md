@@ -23,13 +23,9 @@ Xiaohui Wan is currently pursuing a PhD at the School of Automation Science and 
 # 📝 Publications 
 ## Published papers
 - ``2022`` [SPE$^{2}$: Self-Paced Ensemble of Ensembles for Software Defect Prediction](https://ieeexplore.ieee.org/abstract/document/9736191), **Xiaohui Wan**, Zheng Zheng, Yang Liu.
-- 
 - ``2022`` [AgentFuzz: Fuzzing for Deep Reinforcement Learning Systems](https://ieeexplore.ieee.org/abstract/document/9985158), Tiancheng Li, **Xiaohui Wan**, Muhammed Murat Özbek.
-- 
 - ``2020`` [An empirical study of factors affecting cross-project aging-related bug prediction with TLAP](https://link.springer.com/article/10.1007/s11219-019-09460-7), Fangyun Qin, **Xiaohui Wan**, Beibei Yin
-- 
 - ``2019`` [Supervised representation learning approach for cross-project aging-related bug prediction](https://ieeexplore.ieee.org/abstract/document/8987459), **Xiaohui Wan**, Zheng Zheng, Fangyun Qin, Yu Qiao, Kishor S. Trivedi.
-
 - ``2018`` [A Theoretical Analysis on the Impacts of Misestimated Test Cases](https://ieeexplore.ieee.org/abstract/document/8563200), Yanhong Xu, Beibei Yin, **Xiaohui Wan**, Chenglong Li, Zheng Zheng.
 
 ## Arxiv papers
