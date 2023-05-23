@@ -6,8 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+locale                   : "en-US"
 title                    : "Xiaohui Wan"
-description              : "A PhD candidate in Beihang University. Focusing on AI for SE and SE for AI. "
+title_separator          : "-"
+name                     : &name "Xiaohui Wan"
+description              : &description "A PhD candidate in Beihang University, Beijing, China"
 repository               : "Wan-xiaohui.github.io"
 google_scholar_stats_use_cdn : true
 
