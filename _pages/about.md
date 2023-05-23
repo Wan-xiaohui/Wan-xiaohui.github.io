@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Xiaohui Wan is a PhD candidate in the School of Automation Science and Electrical Engineering from Beihang University. His research revolves around the crossing field of artificial intelligence (AI) and software engineering (SE), encompassing AI techniques for SE and software quality assurance (SQA) techniques for AI systems. Over the past few years, he has published some papers focusing on machine learning-based software defect prediction, as well as testing and fault tolerance approaches for AI software. 
+Xiaohui Wan is currently pursuing a PhD at the School of Automation Science and Electrical Engineering, located at Beihang University in Beijing, China. His research focuses on the intersection of artificial intelligence (AI) and software engineering (SE), encompassing AI techniques for SE and software quality assurance (SQA) techniques for AI systems. In recent years, he has published some papers in IEEE Transaction on Reliability (TR), IEEE Transactions on Emerging Topics in Computing (TETC), Software Quality Journal (SQJ) and International Symposium on Software Reliability Engineering (ISSRE'19 regular paper). His publications involve machine learning-based software defect prediction approaches, as well as testing and fault tolerance approaches for AI software. 
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
