@@ -1,6 +1,6 @@
 
 <h1 align="center">
-Xiaohui Wan's personal homepage
+Xiaohui Wan's Academic Personal Homepage
 </h1>
 
 <div align="center">
