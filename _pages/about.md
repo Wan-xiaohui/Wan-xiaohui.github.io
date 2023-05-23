@@ -46,8 +46,8 @@ Xiaohui Wan is currently pursuing a PhD at the School of Automation Science and 
 - *2012.09 - 2016.06*, Graduated with Bachelor's degree from Jiangsu University, Zhenjiang, China. 
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2019.10*, Supervised representation learning approach for cross-project Aging-Related Bug prediction, at the 30th ISSRE conference, Berlin, Germany. 
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Academic Services
+- **Reviewer** of Conferences: International Symposium on Software Reliability Engineering (ISSRE), International Conference on Software Quality, Reliability and Security (QRS), International Workshop on Dependable Intelligent Systems (DeIS), etc.
+- **Reviewer** of Journals: IEEE Transactions on Reliability (TRel), Applied Soft Computing (ASC), Knowledge-Based Systems (KBS), etc.
