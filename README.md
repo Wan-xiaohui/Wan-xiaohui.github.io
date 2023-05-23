@@ -1,6 +1,6 @@
 
 <h1 align="center">
-This is Xiaohui Wan's personal [homepage](https://Wan-xiaohui.github.io/).
+Xiaohui Wan's personal homepage
 </h1>
 
 <div align="center">
