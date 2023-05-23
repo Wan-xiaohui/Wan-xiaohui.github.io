@@ -21,24 +21,23 @@ Xiaohui Wan is currently pursuing a PhD at the School of Automation Science and 
 
 
 # 📝 Publications 
+## Published papers
+- ``2022`` [SPE$^{2}$: Self-Paced Ensemble of Ensembles for Software Defect Prediction](https://ieeexplore.ieee.org/abstract/document/9736191), **Xiaohui Wan**, Zheng Zheng, Yang Liu.
+- 
+- ``2022`` [AgentFuzz: Fuzzing for Deep Reinforcement Learning Systems](https://ieeexplore.ieee.org/abstract/document/9985158), Tiancheng Li, **Xiaohui Wan**, Muhammed Murat Özbek.
+- 
+- ``2020`` [An empirical study of factors affecting cross-project aging-related bug prediction with TLAP](https://link.springer.com/article/10.1007/s11219-019-09460-7), Fangyun Qin, **Xiaohui Wan**, Beibei Yin
+- 
+- ``2019`` [Supervised representation learning approach for cross-project aging-related bug prediction](https://ieeexplore.ieee.org/abstract/document/8987459), **Xiaohui Wan**, Zheng Zheng, Fangyun Qin, Yu Qiao, Kishor S. Trivedi.
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- ``2018`` [A Theoretical Analysis on the Impacts of Misestimated Test Cases](https://ieeexplore.ieee.org/abstract/document/8563200), Yanhong Xu, Beibei Yin, **Xiaohui Wan**, Chenglong Li, Zheng Zheng.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
-
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
-
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+## Arxiv papers
+- ``2023`` [Coverage-Guided Fuzzing for Deep Reinforcement Learning Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4397226), **Xiaohui Wan**, Tiancheng Li, Yang Feng, Zheng Zheng.
+- ``2023`` [Data Complexity: A New Perspective for Analyzing the Difficulty of Defect Prediction Tasks](https://arxiv.org/abs/2305.03615), **Xiaohui Wan**, Zheng Zheng, Fangyun Qin, Xuhui Lu.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Excellent academic paper and academic scholarship, Beihang University.
 
 # 📖 Educations
 - *2019.09 - now*, Pursuing a PhD at Beihang University, Beijing, China. 
@@ -49,5 +48,5 @@ Xiaohui Wan is currently pursuing a PhD at the School of Automation Science and 
 - *2019.10*, Supervised representation learning approach for cross-project Aging-Related Bug prediction, at the 30th ISSRE conference, Berlin, Germany. 
 
 # 💻 Academic Services
-- **Reviewer** of Conferences: International Symposium on Software Reliability Engineering (ISSRE), International Conference on Software Quality, Reliability and Security (QRS), International Workshop on Dependable Intelligent Systems (DeIS), etc.
+- **Reviewer** of Conferences: International Symposium on Software Reliability Engineering (ISSRE), International Conference on Software Quality, Reliability and Security (QRS), Asia-Pacific Symposium on Internetware (Internetware), International Workshop on Dependable Intelligent Systems (DeIS), etc.
 - **Reviewer** of Journals: IEEE Transactions on Reliability (TRel), Applied Soft Computing (ASC), Knowledge-Based Systems (KBS), etc.
