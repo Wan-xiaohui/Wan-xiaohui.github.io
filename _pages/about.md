@@ -22,6 +22,7 @@ Xiaohui Wan is currently pursuing a PhD at the School of Automation Science and 
 
 # 📝 Publications 
 ## Published papers
+- ``2024`` [Coverage-Guided Fuzzing for Deep Reinforcement Learning Systems](https://www.sciencedirect.com/science/article/abs/pii/S0164121224000062), **Xiaohui Wan**, Tiancheng Li,  Weibin Lin, Yi Cai, Zheng Zheng.
 - ``2023`` [Predicting Aging-Related Bugs Using Network Analysis on Aging-Related Dependency Networks](https://ieeexplore.ieee.org/abstract/document/10138751), Fangyun Qin, Zheng Zheng, **Xiaohui Wan**, Zhihao Liu, Zhiping Shi.
 - ``2022`` [SPE$^{2}$: Self-Paced Ensemble of Ensembles for Software Defect Prediction](https://ieeexplore.ieee.org/abstract/document/9736191), **Xiaohui Wan**, Zheng Zheng, Yang Liu.
 - ``2022`` [AgentFuzz: Fuzzing for Deep Reinforcement Learning Systems](https://ieeexplore.ieee.org/abstract/document/9985158), Tiancheng Li, **Xiaohui Wan**, Muhammed Murat Özbek.
@@ -30,7 +31,6 @@ Xiaohui Wan is currently pursuing a PhD at the School of Automation Science and 
 - ``2018`` [A Theoretical Analysis on the Impacts of Misestimated Test Cases](https://ieeexplore.ieee.org/abstract/document/8563200), Yanhong Xu, Beibei Yin, **Xiaohui Wan**, Chenglong Li, Zheng Zheng.
 
 ## Arxiv papers
-- ``2023`` [Coverage-Guided Fuzzing for Deep Reinforcement Learning Systems](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4397226), **Xiaohui Wan**, Tiancheng Li, Yang Feng, Zheng Zheng.
 - ``2023`` [Data Complexity: A New Perspective for Analyzing the Difficulty of Defect Prediction Tasks](https://arxiv.org/abs/2305.03615), **Xiaohui Wan**, Zheng Zheng, Fangyun Qin, Xuhui Lu.
 - ``2023`` [Adjusted Trust Score: A Novel Approach for Estimating the Trustworthiness of Defect Prediction Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461950), **Xiaohui Wan**, Zheng Zheng, Fangyun Qin, Xuhui Lu.
 - 
