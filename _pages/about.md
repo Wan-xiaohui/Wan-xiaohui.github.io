@@ -22,12 +22,12 @@ Xiaohui Wan is currently pursuing a PhD at the School of Automation Science and 
 
 # 📝 Publications 
 ## Representative papers published in the last five years
+- ``2024`` [Data Complexity: A New Perspective for Analyzing the Difficulty of Defect Prediction Tasks](https://dl.acm.org/doi/abs/10.1145/3649596), **Xiaohui Wan**, Zheng Zheng, Fangyun Qin, Xuhui Lu.
 - ``2024`` [Coverage-Guided Fuzzing for Deep Reinforcement Learning Systems](https://www.sciencedirect.com/science/article/abs/pii/S0164121224000062), **Xiaohui Wan**, Tiancheng Li,  Weibin Lin, Yi Cai, Zheng Zheng.
 - ``2022`` [SPE$^{2}$: Self-Paced Ensemble of Ensembles for Software Defect Prediction](https://ieeexplore.ieee.org/abstract/document/9736191), **Xiaohui Wan**, Zheng Zheng, Yang Liu.
 - ``2019`` [Supervised representation learning approach for cross-project aging-related bug prediction](https://ieeexplore.ieee.org/abstract/document/8987459), **Xiaohui Wan**, Zheng Zheng, Fangyun Qin, Yu Qiao, Kishor S. Trivedi.
 
 ## Arxiv papers
-- ``2023`` [Data Complexity: A New Perspective for Analyzing the Difficulty of Defect Prediction Tasks](https://arxiv.org/abs/2305.03615), **Xiaohui Wan**, Zheng Zheng, Fangyun Qin, Xuhui Lu.
 - ``2023`` [Adjusted Trust Score: A Novel Approach for Estimating the Trustworthiness of Defect Prediction Models](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4461950), **Xiaohui Wan**, Zheng Zheng, Fangyun Qin, Xuhui Lu.
  
 # 🎖 Honors and Awards
