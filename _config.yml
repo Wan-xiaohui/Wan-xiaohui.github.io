@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xiaohui Wan"
 title_separator          : "-"
 name                     : &name "Xiaohui Wan"
-description              : &description "A PhD candidate in Beihang University, Beijing, China"
+description              : &description "A research assistant at the Suzhou Institute of Aerospace Information."
 repository               : "Wan-xiaohui.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -27,11 +27,11 @@ author:
   name             : "Xiaohui Wan (万晓晖)"
   avatar           : "images/IMG_0912.jpg"
   bio              : 
-  location         : "Beijing, China"
+  location         : "SuZhou, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "xhwan@buaa.edu.cn"
+  email            : "wanxh@aircas.ac.cn"
   researchgate     : "https://www.researchgate.net/profile/Xiaohui-Wan"
   uri              :
   bitbucket        :
